@@ -1,0 +1,436 @@
+{
+  "interviews": [
+    {
+      "batch": "interview-01",
+      "count": 1,
+      "targets": [
+        "raw/interviews/1985巴菲特电视采访.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-02",
+      "count": 1,
+      "targets": [
+        "raw/interviews/1990年巴菲特在斯坦福大学的演讲.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-03",
+      "count": 1,
+      "targets": [
+        "raw/interviews/1991巴菲特对圣母大学对MBA学生的演讲.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-04",
+      "count": 1,
+      "targets": [
+        "raw/interviews/1998巴菲特在佛罗里达大学商学院的演讲.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-05",
+      "count": 1,
+      "targets": [
+        "raw/interviews/1998年巴菲特与比尔盖茨在华盛顿大学的对话.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-06",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2005堪萨斯商学院学生于伯克希尔总部与沃伦·巴菲特的问答.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-07",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2007年央视专访巴菲特.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-08",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2008巴菲特答Emory与Austin大学商学院学生问巴菲特答.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-09",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2010央视财经采访巴菲特.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-10",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2010年CNBC采访巴菲特全文.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-11",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2011年巴菲特与南京大学EMBA学生畅言谈投资与人生全中文纪录.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-12",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2013巴菲特与马里兰大学MBA学生的交流发言.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-13",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2015沃伦·巴菲特答Ivey商学院MBA学生问沃伦·巴菲特答.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-14",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2016年巴菲特与8所大学MBA学生见面会的20个问答.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-15",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2017年CNBC采访巴菲特.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-16",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2017年哥伦比亚大学——人生最美好的事是什么？巴菲特：没考上哈佛大学.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-17",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2017年巴菲特对话北京大学学生：最好的投资是投资自己.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-18",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2018年巴菲特再度邀请北大光华学子共进午餐问答全记录.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-19",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2019年5月雅虎财经专访巴菲特.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-20",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2020年沃伦·巴菲特接受CNBC专访.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-21",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2022巴菲特和查理罗斯对谈.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-22",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2023年伯克希尔股东大会.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-23",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2024年伯克希尔股东大会.md"
+      ],
+      "output_dir": "wiki/interviews"
+    },
+    {
+      "batch": "interview-24",
+      "count": 1,
+      "targets": [
+        "raw/interviews/2025年伯克希尔股东大会.md"
+      ],
+      "output_dir": "wiki/interviews"
+    }
+  ],
+  "letters": [
+    {
+      "batch": "letters-01",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/1965 巴菲特致股东信.md",
+        "raw/letters/berkshire/1966 巴菲特致股东信.md",
+        "raw/letters/berkshire/1967 巴菲特致股东信.md",
+        "raw/letters/berkshire/1968 巴菲特致股东信.md",
+        "raw/letters/berkshire/1969 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-02",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/1970 巴菲特致股东信.md",
+        "raw/letters/berkshire/1971 巴菲特致股东信.md",
+        "raw/letters/berkshire/1972 巴菲特致股东信.md",
+        "raw/letters/berkshire/1973 巴菲特致股东信.md",
+        "raw/letters/berkshire/1974 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-03",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/1975 巴菲特致股东信.md",
+        "raw/letters/berkshire/1976 巴菲特致股东信.md",
+        "raw/letters/berkshire/1977 巴菲特致股东信.md",
+        "raw/letters/berkshire/1978 巴菲特致股东信.md",
+        "raw/letters/berkshire/1979 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-04",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/1980 巴菲特致股东信.md",
+        "raw/letters/berkshire/1981 巴菲特致股东信.md",
+        "raw/letters/berkshire/1982 巴菲特致股东信.md",
+        "raw/letters/berkshire/1983 巴菲特致股东信.md",
+        "raw/letters/berkshire/1984 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-05",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/1985 巴菲特致股东信.md",
+        "raw/letters/berkshire/1986 巴菲特致股东信.md",
+        "raw/letters/berkshire/1987 巴菲特致股东信.md",
+        "raw/letters/berkshire/1988 巴菲特致股东信.md",
+        "raw/letters/berkshire/1989 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-06",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/1990 巴菲特致股东信.md",
+        "raw/letters/berkshire/1991 巴菲特致股东信.md",
+        "raw/letters/berkshire/1992 巴菲特致股东信.md",
+        "raw/letters/berkshire/1993 巴菲特致股东信.md",
+        "raw/letters/berkshire/1994 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-07",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/1995 巴菲特致股东信.md",
+        "raw/letters/berkshire/1996 巴菲特致股东信.md",
+        "raw/letters/berkshire/1997 巴菲特致股东信.md",
+        "raw/letters/berkshire/1998 巴菲特致股东信.md",
+        "raw/letters/berkshire/1999 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-08",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/2000 巴菲特致股东信.md",
+        "raw/letters/berkshire/2001 巴菲特致股东信.md",
+        "raw/letters/berkshire/2002 巴菲特致股东信.md",
+        "raw/letters/berkshire/2003 巴菲特致股东信.md",
+        "raw/letters/berkshire/2004 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-09",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/2005 巴菲特致股东信.md",
+        "raw/letters/berkshire/2006 巴菲特致股东信.md",
+        "raw/letters/berkshire/2007 巴菲特致股东信.md",
+        "raw/letters/berkshire/2008 巴菲特致股东信.md",
+        "raw/letters/berkshire/2009 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-10",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/2010 巴菲特致股东信.md",
+        "raw/letters/berkshire/2011 巴菲特致股东信.md",
+        "raw/letters/berkshire/2012 巴菲特致股东信.md",
+        "raw/letters/berkshire/2013 巴菲特致股东信.md",
+        "raw/letters/berkshire/2014 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-11",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/2015 巴菲特致股东信.md",
+        "raw/letters/berkshire/2016 巴菲特致股东信.md",
+        "raw/letters/berkshire/2017 巴菲特致股东信.md",
+        "raw/letters/berkshire/2018 巴菲特致股东信.md",
+        "raw/letters/berkshire/2019 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-12",
+      "count": 5,
+      "targets": [
+        "raw/letters/berkshire/2020 巴菲特致股东信.md",
+        "raw/letters/berkshire/2021 巴菲特致股东信.md",
+        "raw/letters/berkshire/2022 巴菲特致股东信.md",
+        "raw/letters/berkshire/2023 巴菲特致股东信.md",
+        "raw/letters/berkshire/2024 巴菲特致股东信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-13",
+      "count": 5,
+      "targets": [
+        "raw/letters/partnership/1956 有限合伙协议.md",
+        "raw/letters/partnership/1957 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1958 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1959 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1960 巴菲特致合伙人信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-14",
+      "count": 5,
+      "targets": [
+        "raw/letters/partnership/1961 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1961年中 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1962 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1962年11月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1962年12月 巴菲特致合伙人信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-15",
+      "count": 5,
+      "targets": [
+        "raw/letters/partnership/1962年中 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1963 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1963年11月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1963年12月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1963年中 巴菲特致合伙人信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-16",
+      "count": 5,
+      "targets": [
+        "raw/letters/partnership/1964 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1964年中 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1965 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1965年11月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1965年中 巴菲特致合伙人信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-17",
+      "count": 5,
+      "targets": [
+        "raw/letters/partnership/1966 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1966年11月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1966年中 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1967 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1967年10月 巴菲特致合伙人信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-18",
+      "count": 5,
+      "targets": [
+        "raw/letters/partnership/1967年11月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1967年中 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1968 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1968年11月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1968年中 巴菲特致合伙人信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-19",
+      "count": 5,
+      "targets": [
+        "raw/letters/partnership/1969年10月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1969年12月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1969年12月26日 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1969年5月 巴菲特致合伙人信.md",
+        "raw/letters/partnership/1970年2月 巴菲特致合伙人信.md"
+      ],
+      "output_dir": "wiki/letters"
+    },
+    {
+      "batch": "letters-20",
+      "count": 3,
+      "targets": [
+        "raw/letters/special/2014 伯克希尔的过去现在与未来.md",
+        "raw/letters/special/2014 副董事长的思考.md",
+        "raw/letters/special/2025 感恩节致辞.md"
+      ],
+      "output_dir": "wiki/letters"
+    }
+  ]
+}

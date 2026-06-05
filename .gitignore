@@ -1,0 +1,14 @@
+.DS_Store
+
+# Local secrets
+.env
+code/web/.env
+
+# Dependencies and build output
+node_modules/
+code/web/node_modules/
+dist/
+code/web/dist/
+
+# Logs
+*.log

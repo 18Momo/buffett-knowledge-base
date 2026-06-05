@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-06-04T16:39:31",
+  "pageCount": 241,
+  "wikiCounts": {
+    "companies": 61,
+    "concepts": 49,
+    "interviews": 26,
+    "letters": 98,
+    "people": 7
+  },
+  "rawCounts": {
+    "letters": 98,
+    "interviews": 26
+  },
+  "unresolvedLinkCount": 0,
+  "issues": [],
+  "topLinkedPages": [
+    {
+      "title": "收购",
+      "inbound": 162
+    },
+    {
+      "title": "管理层",
+      "inbound": 149
+    },
+    {
+      "title": "可口可乐",
+      "inbound": 101
+    },
+    {
+      "title": "芒格",
+      "inbound": 100
+    },
+    {
+      "title": "保险业",
+      "inbound": 97
+    },
+    {
+      "title": "内在价值",
+      "inbound": 96
+    },
+    {
+      "title": "盖可保险",
+      "inbound": 93
+    },
+    {
+      "title": "低估",
+      "inbound": 88
+    },
+    {
+      "title": "账面价值",
+      "inbound": 88
+    },
+    {
+      "title": "债券",
+      "inbound": 83
+    },
+    {
+      "title": "竞争优势",
+      "inbound": 82
+    },
+    {
+      "title": "资本配置",
+      "inbound": 81
+    },
+    {
+      "title": "喜诗糖果",
+      "inbound": 80
+    },
+    {
+      "title": "品牌",
+      "inbound": 78
+    },
+    {
+      "title": "护城河",
+      "inbound": 77
+    },
+    {
+      "title": "商业模式",
+      "inbound": 72
+    },
+    {
+      "title": "股息",
+      "inbound": 72
+    },
+    {
+      "title": "格雷厄姆",
+      "inbound": 66
+    },
+    {
+      "title": "美国运通",
+      "inbound": 64
+    },
+    {
+      "title": "回购",
+      "inbound": 61
+    }
+  ]
+}
