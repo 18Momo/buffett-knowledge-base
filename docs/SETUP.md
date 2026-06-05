@@ -3,7 +3,7 @@
 ## 1. 初始化知识库
 
 ```bash
-cd /Users/sumo/Documents/4.Codex/buffet1
+cd /Users/sumo/Documents/4.Codex/buffett
 python3 code/init_project.py
 python3 code/make_ingest_batches.py
 ```
@@ -28,7 +28,7 @@ python3 code/audit_data.py
 ## 3. 启动 Web
 
 ```bash
-cd /Users/sumo/Documents/4.Codex/buffet1/code/web
+cd /Users/sumo/Documents/4.Codex/buffett/code/web
 cp .env.example .env
 python3 scripts/build-data.py
 npm install
